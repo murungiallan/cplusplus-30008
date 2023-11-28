@@ -32,7 +32,7 @@ int main() {
 }
 ```
 
-- ‘#include <iostream>’ is a preprocessor directive that tells the compiler to include the header file ‘iostream’. Header files provide function and class declarations.
+- ‘#include ```<iostream>```’ is a preprocessor directive that tells the compiler to include the header file ‘iostream’. Header files provide function and class declarations.
 - ‘main()’ function serves as an entry point to your program and should only be called once. IT MUST RETURN AN INTEGER.
 - To output text, we use the ‘std::cout’ (standard character output) object and the insertion operator. ‘std::endl’ inserts a newline character and flushes the output buffer
 - return 0; informs the OS that the program executed successfully.
