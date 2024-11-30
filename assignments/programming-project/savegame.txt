@@ -1,0 +1,6 @@
+Hero
+70
+3
+Health Potion 12
+Small Shield 1
+Knight Sword 1
